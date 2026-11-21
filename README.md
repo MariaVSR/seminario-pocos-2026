@@ -28,3 +28,6 @@ Organizar **dados fictícios ** de produção de petróleo utilizando Git e GitH
 ##Observações
 
 ESte projeto é didático e utiliza dados fictícios
+
+## Atividade acadêmica
+Projeto desenvolvido como demonstração prática na disciplina de Software Livre
